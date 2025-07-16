@@ -199,7 +199,7 @@ if(cantidad == 6){
 
 // funcion para la imagen textura de tela
 function preload() {
-  img = loadImage('/divozjandotp1e3/assets/Tela.jpg');
+  img = loadImage('./divozjandotp1e3/assets/Tela.jpg');
 }
 
 
