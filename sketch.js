@@ -199,7 +199,7 @@ if(cantidad == 6){
 
 // funcion para la imagen textura de tela
 function preload() {
-  img = loadImage('Tela.jpg');
+  img = loadImage('./assets/Tela.jpg');
 }
 
 
